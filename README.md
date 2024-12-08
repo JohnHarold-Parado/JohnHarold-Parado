@@ -1,0 +1,26 @@
+## Hi, I'm John Harold! 
+## Education
+| Program | School | Year |
+| :---         |     :---:      |          ---: |
+| Information Technology   | New Era University     | 2023-Present    |
+| -     | -       | -      |
+## Certifications
+| Certificate | Issued by | Date Issued |
+| :---         |     :---:      |          ---: |
+|  [Oracle Cloud Infrastructure 2024](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FBB890D2F60A1F812EDC260473A37FFD9F49ABF93D042C1B2EE350BCC45BEFC1&fbclid=IwY2xjawHCklFleHRuA2FlbQIxMQABHcf-dKtI0f-est9rhESx4ZKtzwGi01e6qqOQXLAWN_xbNjNWSdiZYX-fQg_aem_5UHiJyGpVSM2iZeqpgS-qw)  |  Oracle    | December 8, 2024    |
+| -    | -       | -      |
+
+<!--
+**JohnHarold-Parado/JohnHarold-Parado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
